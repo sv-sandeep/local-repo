@@ -40,3 +40,21 @@ form.d-flex ul.display {
     opacity: 1;
     height: auto;
 };
+@media only screen and (max-width:576px){
+    .carousel {
+        background: lightgreen;
+    }
+
+}
+@media only screen and (min-width:577px) and (max-widht:766px){
+    .carousel {
+        background: lightblue;
+    }
+
+}
+@media only screen and (min-width:767px) and (max-widht:992px){
+    .carousel {
+        background: lightblue;
+    }
+
+}
