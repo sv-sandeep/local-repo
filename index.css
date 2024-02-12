@@ -8,9 +8,6 @@
 .carousel .carousel-control-prev {
     background: lightgray;
 }
-.carousel {
-    background: lightcoral;
-}
 form.d-flex ul li {
     list-style: none;
     padding: 5px;
@@ -39,22 +36,19 @@ form.d-flex ul {
 form.d-flex ul.display {
     opacity: 1;
     height: auto;
-};
-@media only screen and (max-width:576px){
+}
+/* @media screen and (max-width: 576px){
     .carousel {
         background: lightgreen;
     }
-
 }
-@media only screen and (min-width:577px) and (max-widht:766px){
+@media screen and (min-width: 577px) and (max-width: 767px){
     .carousel {
         background: lightblue;
     }
-
 }
-@media only screen and (min-width:767px) and (max-widht:992px){
+@media screen and (min-width: 767px) and (max-width: 992px){
     .carousel {
-        background: lightblue;
+        background: lightyellow;
     }
-
-}
+} */
